@@ -1,1 +1,29 @@
 /* style sheet for css second assignment */
+body{
+    margin: 0px;
+}
+/*top section containor includes menu and logo*/
+.headcontainor{
+    margin: 0px;
+    display: block;
+}
+/* top menu containor */
+.headmenu{
+    display: block;
+    overflow: hidden;
+    text-align: right;
+    padding: 40px 40px 20px 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* menu links */
+.menulink{
+    text-decoration: none;
+    padding: 20px;
+}
+/* site logo */
+.sitelogo{
+    display: block;
+    overflow: hidden;
+    padding: 0px 0px 20px 60px;
+    font-family: Arial, Helvetica, sans-serif;
+}
